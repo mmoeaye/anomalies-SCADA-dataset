@@ -1,2 +1,2 @@
 # anomalies-SCADA-dataset
-Identifying anomalies in SCADA dataset of an onshore wind turbine for power curve modelling
+Exploratory Data Analysis of SCADA Data from an Onshore Wind Turbine for Power Curve Modeling
